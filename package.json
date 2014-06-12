@@ -1,0 +1,30 @@
+{
+  "name": "unwind",
+  "version": "0.0.1",
+  "description": "Generate objects based on a (possibly nested) path and a value.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yamadapc/node-unwind.git"
+  },
+  "keywords": [
+    "util",
+    "object",
+    "metaprogramming",
+    "meta",
+    "mapping",
+    "construction"
+  ],
+  "author": "Pedro Yamada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yamadapc/node-unwind/issues"
+  },
+  "homepage": "https://github.com/yamadapc/node-unwind",
+  "devDependencies": {
+    "mocha": "^1.20.1"
+  }
+}
